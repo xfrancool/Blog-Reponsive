@@ -1,8 +1,15 @@
 body {
     font-size: 15pt;
     font-family: 'Arvo', serif;
+    background-image: url(Img/svg.svg);
 }
 
 .card{
   font-family: 'Arvo', serif;
 }
+
+#Titulo {
+  background-color: white;
+}
+
+ 
